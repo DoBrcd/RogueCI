@@ -11,6 +11,7 @@ public class EditorTest1
     public void EditorTest1SimplePasses()
     {
         // Use the Assert class to test conditions
+        Assert.True(false);
     }
 
     // A UnityTest behaves like a coroutine in Play Mode. In Edit Mode you can use
